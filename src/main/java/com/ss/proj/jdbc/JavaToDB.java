@@ -8,5 +8,6 @@ public class JavaToDB {
 		MyJDBC jdbc = new MyJDBC();
 		jdbc.getStudentData();
 		System.out.println("Done");
+		
 	}
 }
